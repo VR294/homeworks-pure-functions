@@ -1,0 +1,1 @@
+[![CI](https://github.com/VR294/homeworks-pure-functions/actions/workflows/main.yml/badge.svg)](https://github.com/VR294/homeworks-pure-functions/actions/workflows/main.yml)
